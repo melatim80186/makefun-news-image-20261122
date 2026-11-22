@@ -10,14 +10,13 @@ Entry for the [make.fun](https://make.fun) competition
 ## What it is
 
 A single broadsheet front page, drawn in code, that sums up the world's news
-of Sunday 22 November 2026. The masthead names the day; the lead story is the
-first-ever trilateral summit of Trump, Xi and Putin in Shenzhen, and the page
-then covers the war in Ukraine (including missiles landing in Poland), the
-foiled plot against rapper Kyivstoner in Denmark, Gaza, the tanker attacks in
-the Gulf, the capture of cartel boss "El Chapo Isidro" in Mexico, the 6.9
-earthquake in Peru, the COP31 deadlock in Antalya, the tech sell-off on Wall
-Street, the FBI database hack probe, and the day's sport — about thirty
-stories in all, each checked against wire reporting from 21–22 November 2026.
+of Sunday 22 November 2026. The masthead names the day; the lead story is
+Russia's overnight barrage of 496 drones and 53 missiles on Ukraine, and the
+page then covers the capture of cartel boss "El Chapo Isidro" in Mexico, the
+drone strike on the Russian cargo ship Sparta II, the EU–Indonesia trade deal,
+Gaza, Iraq, the 6.7 earthquake in Peru, the COP31 deadlock in Antalya, the FBI
+database hack probe, and the day's sport — about thirty stories in all, each
+checked against wire reporting from 21–22 November 2026.
 
 ## How it runs
 
