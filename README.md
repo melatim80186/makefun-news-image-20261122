@@ -17,8 +17,7 @@ DATE CHECK box naming what was deliberately left out as earlier news.
   late-night plenary; objections due 03:00 GMT, approval vote 06:00 GMT
   Sunday (Reuters, 22 Nov).
 - **Russian cargo ship Sparta II ablaze** in the Gulf of Finland after a
-  suspected drone strike; 16 crew evacuated, fire burning into Sunday
-  (AP, Finnish Border Guard).
+  suspected drone strike; 16 crew evacuated (AP).
 - **Iran strikes US bases in Bahrain; tankers hit off Oman** — IRGC claims
   Patriot radars hit; Bahrain says a civilian plant burned (Al Jazeera).
 
